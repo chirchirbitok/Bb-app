@@ -1,4 +1,5 @@
-#A Web Based Application for Managing the Kenya Basketball 
+#A Web Based Application for Managing the Kenya Basketball
+
 This project was concerned with sharing of basketball statistics after the end
 of each game. The system will be able to calculate the statistics of players and teams
 standings automatically after every game played. The system will ensure all recorded
