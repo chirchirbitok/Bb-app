@@ -1,4 +1,4 @@
-##A Web Based Application for Managing the Kenya Basketball
+#A Web Based Application for Managing the Kenya Basketball
 
 
 This project was concerned with sharing of basketball statistics after the end
