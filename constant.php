@@ -8,7 +8,7 @@ error_reporting(E_ALL & ~E_NOTICE);
 	define('DBNAME', 'progpresent');
 	define('DB_CHARSET', 'utf8');
 	define('HOSTUSER', 'root');
-	define('HOSTPASSWORD', '');
+	define('HOSTPASSWORD', '58092952');
 	
 	
 

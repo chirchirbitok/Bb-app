@@ -6,7 +6,7 @@
        	    $dbengine   = 'mysql';
             $dbhost     = 'localhost';
             $dbuser     = 'root';
-            $dbpassword = '';
+            $dbpassword = '58092952';
             $dbname     = 'progpresent';
 
             try{ 

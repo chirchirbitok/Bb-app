@@ -1,4 +1,3 @@
-
  <?php 
  //include "dbconnect.php";
     require __DIR__.'../dbconnect.php'; 
